@@ -1,0 +1,37 @@
+/* .container{
+    height: 200px;
+    width: 200px;
+} */
+/* .fl-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+body{
+    color: black !important;
+    
+}
+.cen {
+    display: flex;
+    justify-content: center;
+    
+  
+}
+footer{
+   
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(75, 75, 243);
+    color: white;
+}
+.img-fluid {
+    max-width: auto !important;
+    height: auto;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    
+}
